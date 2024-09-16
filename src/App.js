@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to My Demo Website after test 2!</h1>
-        <p>This is a simple React demo website.</p>
+        <p>This is a simple React demo website after test.</p>
         <button onClick={() => alert('Hello World!')}>Click me</button>
       </header>
     </div>
